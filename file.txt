@@ -1,1 +1,2 @@
 this is a text file
+change 1 from vscode in file.txt
